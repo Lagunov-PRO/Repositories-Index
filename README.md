@@ -15,6 +15,7 @@
 * [python-flask-starter](https://github.com/Lagunov-PRO/python-flask-starter)
 ## Python Course in [IT-Academy](http://new.itpark-kazan.ru/educational/)
 ### [Home Works](https://github.com/Lagunov-PRO?utf8=✓&tab=repositories&q=HW)
+* [Issues к домашним заданиям](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+author%3Acoursar+user%3ALagunov-PRO)
 * [HW01_Fuel](https://github.com/Lagunov-PRO/HW01_Fuel)
 * [HW02_Wallpaper](https://github.com/Lagunov-PRO/HW02_Wallpaper)
 * [HW03_Bonus](https://github.com/Lagunov-PRO/HW03_Bonus)
