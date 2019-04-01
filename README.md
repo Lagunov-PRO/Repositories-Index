@@ -1,10 +1,6 @@
-# My Repositories Index
-
-
-
 |Поиск Issues:| [Все мои](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3ALagunov-PRO+-label%3AOK-enhancement+-label%3AOK-bugreport+-assignee%3Acoursar+author%3ALagunov-PRO+)       | [К заданиям курса](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+author%3Acoursar+user%3ALagunov-PRO)           | [На проверке](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3ALagunov-PRO+-label%3AOK-enhancement+-label%3AOK-bugreport+-assignee%3ALagunov-PRO++author%3ALagunov-PRO+)  |
 | ------------- |-------------| -----| -----|
-
+# My Repositories Index
 ## [Personal Projects](https://github.com/Lagunov-PRO?utf8=✓&tab=repositories&q=LP)
 
 ## [Test Tasks from job interviews](https://github.com/Lagunov-PRO?utf8=✓&tab=repositories&q=TT)
