@@ -1,13 +1,12 @@
 # My Repositories Index
-## Personal
-* [Personal Projects](https://github.com/Lagunov-PRO?utf8=✓&tab=repositories&q=LP)
+## [Personal Projects](https://github.com/Lagunov-PRO?utf8=✓&tab=repositories&q=LP)
 ## [Test Tasks from job interviews](https://github.com/Lagunov-PRO?utf8=✓&tab=repositories&q=TT)
 * [RESTful API](https://github.com/Lagunov-PRO/TT01)
 * [QA Automation on Selenide](https://github.com/Lagunov-PRO/TT_OK)
 ## Collections
 * [Interview Questions](https://github.com/Lagunov-PRO/Interview_Questions)
 * [Pythonic Solutions](https://github.com/Lagunov-PRO/Pythonic_Solutions)
-## Starters
+## [Starters](https://github.com/Lagunov-PRO?utf8=✓&tab=repositories&q=starter)
 * [python-console-starter](https://github.com/Lagunov-PRO/python-console-starter)
 * [python-flask-starter](https://github.com/Lagunov-PRO/python-flask-starter)
 ## Python Course in [IT-Academy](http://new.itpark-kazan.ru/educational/)
