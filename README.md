@@ -26,6 +26,6 @@
 * [ET04_Unique_Only](https://github.com/Lagunov-PRO/ET04_Unique_Only)
 * [ET05_Sorted_or_not](https://github.com/Lagunov-PRO/ET05_Sorted_or_not)
 ### [Class Works](https://github.com/Lagunov-PRO?utf8=✓&tab=repositories&q=CW)
-## Python selfeducation
+## Python Self Education
 * [Playground](https://github.com/Lagunov-PRO/Playground)
 
