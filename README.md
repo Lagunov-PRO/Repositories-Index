@@ -21,6 +21,14 @@
 * [HW07_Realty_Finder](https://github.com/Lagunov-PRO/HW07_Realty_Finder)
 
 ### [Extra Tasks](https://github.com/Lagunov-PRO?utf8=✓&tab=repositories&q=ET)
+* [ET01_Zodiac](https://github.com/Lagunov-PRO/ET01_Zodiac)
+* [ET02_Sort_and_Sum](https://github.com/Lagunov-PRO/ET02_Sort_and_Sum)
+* [ET03_Normalize](https://github.com/Lagunov-PRO/ET03_Normalize)
+* [ET04_Unique_Only](https://github.com/Lagunov-PRO/ET04_Unique_Only)
+* [ET05_Sorted_or_not](https://github.com/Lagunov-PRO/ET05_Sorted_or_not)
+
+
+* [ET04_Unique_Only]()
 * [Class Works](https://github.com/Lagunov-PRO?utf8=✓&tab=repositories&q=CW)
 ## Python selfeducation
 * [Playground](https://github.com/Lagunov-PRO/Playground)
