@@ -1,11 +1,12 @@
 # My Repositories Index
 
-## Issues
-| [Все мои](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3ALagunov-PRO+-label%3AOK-enhancement+-label%3AOK-bugreport+-assignee%3Acoursar+author%3ALagunov-PRO+)       | [К заданиям курса](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+author%3Acoursar+user%3ALagunov-PRO)           | [На проверке](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3ALagunov-PRO+-label%3AOK-enhancement+-label%3AOK-bugreport+-assignee%3ALagunov-PRO++author%3ALagunov-PRO+)  |
-| ------------- |:-------------:| -----:|
+
+
+|Поиск Issues:| [Все мои](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3ALagunov-PRO+-label%3AOK-enhancement+-label%3AOK-bugreport+-assignee%3Acoursar+author%3ALagunov-PRO+)       | [К заданиям курса](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+author%3Acoursar+user%3ALagunov-PRO)           | [На проверке](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3ALagunov-PRO+-label%3AOK-enhancement+-label%3AOK-bugreport+-assignee%3ALagunov-PRO++author%3ALagunov-PRO+)  |
+| ------------- |-------------| -----| -----|
 
 ## [Personal Projects](https://github.com/Lagunov-PRO?utf8=✓&tab=repositories&q=LP)
-* [Все мои Issues](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3ALagunov-PRO+-label%3AOK-enhancement+-label%3AOK-bugreport+-assignee%3Acoursar+author%3ALagunov-PRO+)
+
 ## [Test Tasks from job interviews](https://github.com/Lagunov-PRO?utf8=✓&tab=repositories&q=TT)
 * __[RESTful API](https://github.com/Lagunov-PRO/TT01)__<br>
 Создание двух таблиц в БД со связью и заданными ограничениями, эндпоинты к указанным методам. <br>
@@ -21,8 +22,6 @@
 * [python-flask-starter](https://github.com/Lagunov-PRO/python-flask-starter)
 ## Python Course in [IT-Academy](http://new.itpark-kazan.ru/educational/)
 ### [Home Works](https://github.com/Lagunov-PRO?utf8=✓&tab=repositories&q=HW)
-* [Issues к домашним заданиям](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+author%3Acoursar+user%3ALagunov-PRO)
-* [На проверке](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3ALagunov-PRO+-label%3AOK-enhancement+-label%3AOK-bugreport+-assignee%3ALagunov-PRO++author%3ALagunov-PRO+)
 * [HW01_Fuel](https://github.com/Lagunov-PRO/HW01_Fuel)
 * [HW02_Wallpaper](https://github.com/Lagunov-PRO/HW02_Wallpaper)
 * [HW03_Bonus](https://github.com/Lagunov-PRO/HW03_Bonus)
