@@ -17,6 +17,7 @@
 ## Python Course in [IT-Academy](http://new.itpark-kazan.ru/educational/)
 ### [Home Works](https://github.com/Lagunov-PRO?utf8=✓&tab=repositories&q=HW)
 * [Issues к домашним заданиям](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+author%3Acoursar+user%3ALagunov-PRO)
+* [На проверке](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3ALagunov-PRO+-label%3AOK-enhancement+-label%3AOK-bugreport+-assignee%3ALagunov-PRO++author%3ALagunov-PRO+)
 * [HW01_Fuel](https://github.com/Lagunov-PRO/HW01_Fuel)
 * [HW02_Wallpaper](https://github.com/Lagunov-PRO/HW02_Wallpaper)
 * [HW03_Bonus](https://github.com/Lagunov-PRO/HW03_Bonus)
