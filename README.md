@@ -2,9 +2,11 @@
 ## [Personal Projects](https://github.com/Lagunov-PRO?utf8=✓&tab=repositories&q=LP)
 ## [Test Tasks from job interviews](https://github.com/Lagunov-PRO?utf8=✓&tab=repositories&q=TT)
 * [RESTful API](https://github.com/Lagunov-PRO/TT01)<br>
-Создание двух таблиц в БД со связью и заданными ограничениями и API к ним. Затрачено на разработку: 27 часов
+Создание двух таблиц в БД со связью и заданными ограничениями и API к ним. <br>
+Затрачено на разработку: 27 часов
 * [QA Automation on Selenide](https://github.com/Lagunov-PRO/TT_OK)<br>
-Написание тест-кейсов и их реализация на Selenide. Затрачено на разработку: 41 час 
+Написание тест-кейсов и их реализация на Selenide. <br>
+Затрачено на разработку: 41 час 
 ## Collections
 * [Interview Questions](https://github.com/Lagunov-PRO/Interview_Questions)
 * [Pythonic Solutions](https://github.com/Lagunov-PRO/Pythonic_Solutions)
