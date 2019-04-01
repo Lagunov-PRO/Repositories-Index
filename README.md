@@ -1,5 +1,6 @@
 # My Repositories Index
 ## [Personal Projects](https://github.com/Lagunov-PRO?utf8=✓&tab=repositories&q=LP)
+* [Все мои Issues](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3ALagunov-PRO+-label%3AOK-enhancement+-label%3AOK-bugreport+-assignee%3Acoursar)
 ## [Test Tasks from job interviews](https://github.com/Lagunov-PRO?utf8=✓&tab=repositories&q=TT)
 * __[RESTful API](https://github.com/Lagunov-PRO/TT01)__<br>
 Создание двух таблиц в БД со связью и заданными ограничениями, эндпоинты к указанным методам. <br>
