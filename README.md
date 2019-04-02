@@ -7,7 +7,7 @@
 * __[RESTful API](https://github.com/Lagunov-PRO/TT01)__<br>
 Создание двух таблиц в БД со связью и заданными ограничениями, эндпоинты к указанным методам. <br>
 Затрачено на изучение и разработку: 27 часов
-* __[QA Automation on Selenide](https://github.com/Lagunov-PRO/TT_OK)__<br>
+* __[End-to-end web app testing with Selenide](https://github.com/Lagunov-PRO/TT_OK)__<br>
 Написание тест-кейсов и их реализация на Selenide. <br>
 Затрачено на изучение и разработку: 41 час 
 ## Collections
