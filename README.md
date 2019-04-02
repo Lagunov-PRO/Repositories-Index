@@ -38,7 +38,7 @@
 ## Python Self Education
 * [Playground](https://github.com/Lagunov-PRO/Playground)
 
-##### Полезные ссылки
+## Полезные ссылки
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [Advanced Search](https://github.com/search/advanced)
 
