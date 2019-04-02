@@ -1,6 +1,6 @@
 # My Repositories Index
-|Поиск Issues:| [Все баги](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3ALagunov-PRO+label%3Abug+author%3ALagunov-PRO+assignee%3ALagunov-PRO+)       | [К заданиям курса](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+author%3Acoursar+user%3ALagunov-PRO)           | [На проверке](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3ALagunov-PRO+label%3AHW-check+-assignee%3ALagunov-PRO+author%3ALagunov-PRO+)|[Вопросы](https://github.com/issues?q=is%3Aopen+is%3Aissue+user%3ALagunov-PRO+-assignee%3ALagunov-PRO+author%3ALagunov-PRO+label%3A"help+wanted")
-| ------------- |-------------| -----| -----|-----|
+|Поиск Issues:| [Баги](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3ALagunov-PRO+label%3Abug+author%3ALagunov-PRO+assignee%3ALagunov-PRO+)       |[Улучшения](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3ALagunov-PRO+label%3Aenhancement+author%3ALagunov-PRO+assignee%3ALagunov-PRO+)| [К заданиям курса](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+author%3Acoursar+user%3ALagunov-PRO)           | [На проверке](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3ALagunov-PRO+label%3AHW-check+-assignee%3ALagunov-PRO+author%3ALagunov-PRO+)|[Вопросы](https://github.com/issues?q=is%3Aopen+is%3Aissue+user%3ALagunov-PRO+-assignee%3ALagunov-PRO+author%3ALagunov-PRO+label%3A"help+wanted")
+| ------------- |-------------| -----| -----|-----|-----|
 ## [Personal Projects](https://github.com/Lagunov-PRO?utf8=✓&tab=repositories&q=LP)
 
 ## [Test Tasks from job interviews](https://github.com/Lagunov-PRO?utf8=✓&tab=repositories&q=TT)
