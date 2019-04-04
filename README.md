@@ -12,7 +12,7 @@ Python | Flask | PostgreSQL | SQLAlchemy | Marshmallow <br>
 Затрачено на изучение и разработку: 27 часов
 * __[End-to-end web app testing with Selenide](https://github.com/Lagunov-PRO/TT_OK)__<br>
 Написание тест-кейсов и их реализация на Selenide. <br>
-Java | Maven | JUnit | Selenide <br>
+Java | Maven | JUnit | Selenide | MindNode <br>
 Затрачено на изучение и разработку: 41 час 
 ## Collections
 * [Interview Questions](https://github.com/Lagunov-PRO/Interview_Questions)
