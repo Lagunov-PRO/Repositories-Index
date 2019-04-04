@@ -8,9 +8,11 @@
 ## [Test Tasks from job interviews](https://github.com/Lagunov-PRO?utf8=✓&tab=repositories&q=TT)
 * __[RESTful API](https://github.com/Lagunov-PRO/TT01)__<br>
 Создание двух таблиц в БД со связью и заданными ограничениями, эндпоинты к указанным методам. <br>
+Python | Flask | PostgreSQL | SQLAlchemy | Marshmallow <br>
 Затрачено на изучение и разработку: 27 часов
 * __[End-to-end web app testing with Selenide](https://github.com/Lagunov-PRO/TT_OK)__<br>
 Написание тест-кейсов и их реализация на Selenide. <br>
+Java | Maven | JUnit | Selenide <br>
 Затрачено на изучение и разработку: 41 час 
 ## Collections
 * [Interview Questions](https://github.com/Lagunov-PRO/Interview_Questions)
