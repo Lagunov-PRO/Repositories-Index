@@ -40,6 +40,7 @@
 ### [Class Works](https://github.com/Lagunov-PRO?utf8=✓&tab=repositories&q=CW)
 ## Python Self Education
 * [Playground](https://github.com/Lagunov-PRO/Playground)
+* [Project Euler](https://github.com/Lagunov-PRO/Project-Euler/commits/master/app/lib.py)
 
 ## Полезные ссылки
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
