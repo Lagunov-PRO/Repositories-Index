@@ -40,6 +40,13 @@
 ### [Class Works](https://github.com/Lagunov-PRO?utf8=✓&tab=repositories&q=CW)
 ## Python Self Education
 * [Playground](https://github.com/Lagunov-PRO/Playground)
+  * [little apps](https://github.com/Lagunov-PRO/Playground/tree/master/01_own_apps)
+  * [Python Crash Course](https://github.com/Lagunov-PRO/Playground/tree/master/02_crash_course)
+  * [Algorithms in Python (MFTI)](https://github.com/Lagunov-PRO/Playground/tree/master/03_MFTI)
+  * [Solwed for Stackoverflow](https://github.com/Lagunov-PRO/Playground/tree/master/04_Stackoverflow)
+  * [Solved from codewars](https://github.com/Lagunov-PRO/Playground/tree/master/05_codewars)
+  * [Experiments with Selenium](https://github.com/Lagunov-PRO/Playground/tree/master/06_selenium)
+  * [Experiments with Selenide](https://github.com/Lagunov-PRO/Playground/tree/master/07_selenide)
 * [Project Euler](https://github.com/Lagunov-PRO/Project-Euler/commits/master/app/lib.py)
 
 ## Полезные ссылки
