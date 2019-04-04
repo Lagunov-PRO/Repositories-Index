@@ -49,7 +49,7 @@
   * [Experiments with Selenide](https://github.com/Lagunov-PRO/Playground/tree/master/07_selenide)
 * [Project Euler](https://github.com/Lagunov-PRO/Project-Euler/commits/master/app/lib.py)
 
-## Полезные ссылки
+## Useful lonks
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [Advanced Search](https://github.com/search/advanced)
 
