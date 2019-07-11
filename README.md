@@ -6,7 +6,11 @@
 | <sup>Внимание:</sup> <br> <sup>Attention:</sup>| [<sup>Без label</sup>](https://github.com/search?utf8=✓&q=is%3Aopen+is%3Aissue+user%3ALagunov-PRO+no%3Alabel+author%3ALagunov-PRO) <br> [<sup>No label</sup>](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3ALagunov-PRO+no%3Alabel+author%3ALagunov-PRO)          |       | [<sup>Давно без ответа</sup>](https://github.com/search?utf8=✓&q=is%3Aissue+is%3Aopen+user%3ALagunov-PRO+created%3A<2019-03-26+author%3Acoursar+) <br> [<sup>No answer</sup>](https://github.com/issues?utf8=✓&q=is%3Aissue+is%3Aopen+user%3ALagunov-PRO+created%3A<2019-03-26+author%3Acoursar+)    | [<sup>Не назначено</sup>](https://github.com/search?utf8=✓&q=is%3Aopen+is%3Aissue+user%3ALagunov-PRO+no%3Aassignee+label%3AHW-Check) <br>  [<sup>No assignee</sup>](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3ALagunov-PRO+no%3Aassignee+label%3AHW-Check)| |   |   |   |
 ## [Personal Projects](https://github.com/Lagunov-PRO?utf8=✓&tab=repositories&q=LP)
 
-## [Test Tasks from job interviews](https://github.com/Lagunov-PRO?utf8=✓&tab=repositories&q=TT)
+## [Demo projects](https://github.com/Lagunov-PRO?utf8=✓&tab=repositories&q=TT)
+* __[CRUD app on Flask](https://github.com/Lagunov-PRO/LP08_Photo_Trail)__<br>
+| Python | Flask | MySQL | SQLAlchemy |<br>
+Приложение для учёта посешённых регионов мира. <br>
+Затрачено на изучение и разработку: 47 часов
 * __[RESTful API on Python](https://github.com/Lagunov-PRO/TT01)__<br>
 | Python | Flask | Marshmallow | PostgreSQL | SQLAlchemy |<br>
 Создание двух таблиц в БД со связью и заданными ограничениями, эндпоинты к указанным методам. <br>
