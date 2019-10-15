@@ -31,7 +31,7 @@
 * [HW02_Wallpaper](https://github.com/Lagunov-PRO/HW02_Wallpaper)
 * [HW03_Bonus](https://github.com/Lagunov-PRO/HW03_Bonus)
 * ~~HW04_Zodiac~~ renamed to [ET01_Zodiac](https://github.com/Lagunov-PRO/ET01_Zodiac)
-* [HW05_Shops_Revenues](https://github.com/Lagunov-PRO/)
+* [HW05_Shops_Revenues](https://github.com/Lagunov-PRO/HW05_Shops_Revenues)
 * [HW06_Book_Store](https://github.com/Lagunov-PRO/HW06_Book_Store)
 * [HW07_Realty_Finder](https://github.com/Lagunov-PRO/HW07_Realty_Finder)
 
