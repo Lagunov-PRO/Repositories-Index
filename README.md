@@ -11,7 +11,7 @@
 | Python | Flask | MySQL | SQLAlchemy |<br>
 Приложение для учёта посешённых регионов мира. <br>
 Затрачено на изучение и разработку: 47 часов
-* __[RESTful API on Python](https://github.com/Lagunov-PRO/TT01)__<br>
+* __[REST API on Python](https://github.com/Lagunov-PRO/TT01)__<br>
 | Python | Flask | Marshmallow | PostgreSQL | SQLAlchemy |<br>
 Создание двух таблиц в БД со связью и заданными ограничениями, эндпоинты к указанным методам. <br>
 Затрачено на изучение и разработку: 27 часов
